@@ -10,7 +10,7 @@ public class Matrix {
         m=in.nextInt();
         n=in.nextInt();
         int[][] arr=new int[m][n];
-        System.out.println("ENTER REQUIRED LENGTH FOR 2ND ARRAY");
+        System.out.println("ENTER REQUIRED LENGTH FOR 2ND ARRAY.");
         int j=in.nextInt();
         int k=in.nextInt();
         int[][] array=new int[j][k];
